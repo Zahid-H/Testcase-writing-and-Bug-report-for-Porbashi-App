@@ -9,11 +9,8 @@
 
 # Excel pdf file and direct link
 <ul>
-Google sheets link- https://docs.google.com/spreadsheets/d/1KTzynaK0jf-8h9jUpXNWq6YYoQiXjWCk0a7pJlqueRI/edit#gid=0
-</ul>
-<ul>
+ <li> Google sheets link- https://docs.google.com/spreadsheets/d/1KTzynaK0jf-8h9jUpXNWq6YYoQiXjWCk0a7pJlqueRI/edit#gid=0 </li>
   <li>[Task-1 Test Reoprt SQA_[Md.Zahid Hasan Juel] - Sheet1.pdf](https://github.com/Zahid-H/Testcase-writing-and-Bug-report-for-Porbashi-App/files/12174972/Task-1.Test.Reoprt.SQA_.Md.Zahid.Hasan.Juel.-.Sheet1.pdf)</li>
- 
 </ul>
 
 
