@@ -7,6 +7,12 @@ Testcase and Bug report in excel formate
 ![Uploading 1.png…]()
 
 # Excel pdf file and direct link
-[TEXT TO SHOW]([actual URL to navigate](https://docs.google.com/spreadsheets/d/1KTzynaK0jf-8h9jUpXNWq6YYoQiXjWCk0a7pJlqueRI/edit#gid=0)https://docs.google.com/spreadsheets/d/1KTzynaK0jf-8h9jUpXNWq6YYoQiXjWCk0a7pJlqueRI/edit#gid=0)
-[Task-1 Test Reoprt SQA_[Md.Zahid Hasan Juel] - Sheet1.pdf](https://github.com/Zahid-H/Testcase-writing-and-Bug-report-for-Porbashi-App/files/12174972/Task-1.Test.Reoprt.SQA_.Md.Zahid.Hasan.Juel.-.Sheet1.pdf)
+<ul>
+Google sheets link- https://docs.google.com/spreadsheets/d/1KTzynaK0jf-8h9jUpXNWq6YYoQiXjWCk0a7pJlqueRI/edit#gid=0
+</ul>
+<ul>
+  <li>[Task-1 Test Reoprt SQA_[Md.Zahid Hasan Juel] - Sheet1.pdf](https://github.com/Zahid-H/Testcase-writing-and-Bug-report-for-Porbashi-App/files/12174972/Task-1.Test.Reoprt.SQA_.Md.Zahid.Hasan.Juel.-.Sheet1.pdf)</li>
+ 
+</ul>
+
 
