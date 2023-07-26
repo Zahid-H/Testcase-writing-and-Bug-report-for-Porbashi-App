@@ -1,10 +1,11 @@
-![Screenshot 2023-07-26 221912](https://github.com/Zahid-H/Testcase-writing-and-Bug-report-for-Porbashi-App/assets/83463788/f19f905a-aa57-457d-8a0b-dc0e94b2bbf8)
-![Uploading 3.png…]()
 # Testcase-writing-and-Bug-report-for-Porbashi-App
-Testcase and Bug report in excel formate
+
+<p><b>Testcase and Bug report in excel formate</b></p>
 # Screenshots
 ![Uploading 2.png…]()
 ![Uploading 1.png…]()
+![Uploading 3.png…]()
+![Screenshot 2023-07-26 221912](https://github.com/Zahid-H/Testcase-writing-and-Bug-report-for-Porbashi-App/assets/83463788/418781be-c96f-4e8a-a11d-7f6d4007a718)
 
 # Excel pdf file and direct link
 <ul>
